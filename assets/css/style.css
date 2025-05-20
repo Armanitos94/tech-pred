@@ -99,6 +99,11 @@ a{
   font-weight: 600;
 }
 
+
+.schedule-info {
+  padding-bottom: 50px;
+}
+
 .schedule-info p{
   color: #fff;
   font-size: 18px;
@@ -106,9 +111,8 @@ a{
 }
 
 .schedule-day {
-  font-size: 35px;
-    color: #fff;
-    line-height: 1.3em;
+  font-size: 28px !important;
+  line-height: 1.3em !important;
 }
 
 p{
@@ -299,7 +303,7 @@ tr {
 }
 
 .bg-agenda {
-  background-color: #f8d8d8;
+  background-color: #fd493d;
 }
 
 .bg-video {
@@ -403,7 +407,7 @@ h2.title {
 }
 
 .btn-primary {
-  background-color: #8f00ff !important;
+  background-color: #fd493d !important;
 }
 
 /*--------------------------------------------------------------
