@@ -451,3 +451,6 @@ h2.title {
 }
 
 
+.modal-body iframe {
+  width: 100% !important;
+}
